@@ -79,7 +79,15 @@ Conversiones Y a Δ
 
 3. EXPLICACIÓN Y RESOLUCIÓN DE EJERCICIOS O PROBLEMAS
 
-![RESOLUCIÓN DE EJERCICIOS](https://user-images.githubusercontent.com/104941068/168763673-2b57e737-7056-4474-ada2-25930177d8d2.jpg)
+![1](https://user-images.githubusercontent.com/104941068/176825461-1445959f-eaf8-424c-9af5-72dc3f724869.png)
+![2](https://user-images.githubusercontent.com/104941068/176825465-9e0a0f3f-6200-4162-b3fd-b559378d9377.png)
+![3](https://user-images.githubusercontent.com/104941068/176825473-35e56f26-a0de-42c7-9bc0-75ef9351d70d.png)
+![4](https://user-images.githubusercontent.com/104941068/176825478-4728ac70-9a88-4229-ae87-4eb7c814dfed.png)
+![5](https://user-images.githubusercontent.com/104941068/176825929-993b1cb7-bc5d-4981-b473-ac09e3c3af2e.png)
+![6](https://user-images.githubusercontent.com/104941068/176825938-48237d42-589c-48ae-b4f4-2345e0920408.png)
+![7](https://user-images.githubusercontent.com/104941068/176825941-60557541-be7e-42c6-baec-c98ed2584565.png)
+![8](https://user-images.githubusercontent.com/104941068/176825943-06596fdb-4f84-4feb-9b7a-8125b4117ab7.png)
+![9](https://user-images.githubusercontent.com/104941068/176825945-9c297f15-396c-44ee-9610-a296caf70615.png)
 
 4. VIDEO
 
