@@ -6,14 +6,23 @@ Entender los elementos y conceptos básicos acerca de los circuitos en serie-par
 
 1.2.	Objetivos especificos
 •	Identificar y comprender los circuitos en serie-paralelo 
+
 •	Analizar divisores de voltaje con carga 
+
 •	Determinar el efecto de carga de un voltímetro en un circuito 
+
 •	Analizar redes en escalera 
+
 •	Analizar un puente de Wheatstone 
+
 •	Describir las características de una fuente de voltaje de cd y de una fuente de corriente 
+
 •	Realizar conversiones de fuente 
+
 •	Aplicar los teoremas de superposición al análisis de circuitos, de Thevenin y de Norton para simplificar un circuito
+
 •	Aplicar el teorema de transferencia de potencia máxima 
+
 •	Realizar conversiones Δ a Y y Y a Δ
 
 2. MARCO TEÓRICO (RESUMEN)
@@ -91,13 +100,16 @@ Conversiones Y a Δ
 
 4. VIDEO
 
-https://youtu.be/6305fBp6DUM
+
 
 5. CONCLUSIONES
 
 •	Se logró entender conceptos elementales acerca de los circuitos serie-paralelo.
+
 •	Se logró comprender la aplicación del puente de Wheatstone.
+
 •	Se logró comprender varios teoremas como el de la superposición, teorema de Thevenin y teorema de Norton para simplificar y posteriormente resolver circuitos.
+
 •	Se puede comprender la conversión de energía y la caída de voltaje.
 
 6. BIBLIOGRAFÍA:
