@@ -100,7 +100,7 @@ Conversiones Y a Δ
 
 4. VIDEO
 
-
+https://youtu.be/1pGdxB9iisY
 
 5. CONCLUSIONES
 
@@ -114,7 +114,6 @@ Conversiones Y a Δ
 
 6. BIBLIOGRAFÍA:
 FLOYD, T. L. (2008). DISPOSITIVOS ELECTRONICOS (8a. ed.). MEXICO: PEARSON EDUCACION.
-
 
 RUBRICA
 
